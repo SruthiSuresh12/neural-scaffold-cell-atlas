@@ -51,9 +51,6 @@ Raw scRNA-seq (GEO)
 | Day3_NMP | 0.422 | 0.6% |
 | Day1_iPSC | 0.400 | 0.4% |
 
-**Surface marker candidates for FACS enrichment:** CDC20, CDCA8, CDK1 enriched in high-ESS cells; full table in `results/tables/surface_marker_candidates.csv`.
-
-![ESS Panel Figure](docs/ESS_panel_figure.png)
 
 ## Installation
 ```bash
