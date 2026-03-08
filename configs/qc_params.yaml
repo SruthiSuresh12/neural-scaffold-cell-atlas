@@ -1,0 +1,21 @@
+qc:
+  min_genes: 500
+  max_genes: 8000
+  min_cells: 10
+  max_mt_percent: 15
+  max_rb_percent: 50
+  doublet_score_threshold: 0.25
+
+normalization:
+  target_sum: 1e4
+  n_top_genes: 3000
+  n_pcs: 50
+
+clustering:
+  n_neighbors: 30
+  resolution: 0.5
+  random_state: 42
+
+batch_correction:
+  method: harmony
+  batch_key: sample_id

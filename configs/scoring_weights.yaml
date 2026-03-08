@@ -1,0 +1,25 @@
+positive_markers:
+  NCAM1: 2.0
+  L1CAM: 2.0
+  TUBB3: 1.5
+  MNX1: 2.0
+  CHAT: 1.5
+  OLIG2: 1.5
+  NKX6-1: 1.0
+  PAX6: 1.0
+  ITGA6: 1.5
+  ITGB1: 1.5
+  ITGA3: 1.0
+
+negative_markers:
+  POU5F1: -3.0
+  NANOG: -3.0
+  SOX2: -1.5
+  TP53: -2.0
+  DDIT3: -2.0
+  BAX: -1.5
+  CASP3: -2.0
+  MKI67: -1.5
+  TOP2A: -1.0
+  HMOX1: -1.0
+  HSP90AA1: -1.0

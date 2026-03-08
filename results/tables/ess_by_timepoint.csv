@@ -1,0 +1,6 @@
+sample_id,mean,median,std,count
+Day18_spNeuron,0.624,0.626,0.124,3431
+Day6_NMP,0.514,0.51,0.116,1366
+Day12_spNPG,0.501,0.502,0.139,2529
+Day3_NMP,0.426,0.422,0.092,1591
+Day1_iPSC,0.404,0.4,0.079,1083
